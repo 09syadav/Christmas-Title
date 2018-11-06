@@ -1,14 +1,15 @@
 h1 { font-family:
 
-  color: black;
+  color: white;
   font-weight: bold;
   font-stretch: ultra-expanded;
   font-size-adjust: auto;
 }
-body{background-color: orange;
+body{background-color: green;
 
-  color: black;
-  font-family: fantasy;
+  color: white;
+  font-family: effects eighty
+;
   text-align:center;
 
 }
