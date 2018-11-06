@@ -5,10 +5,10 @@ h1 { font-family:
   font-stretch: ultra-expanded;
   font-size-adjust: auto;
 }
-body{background-color: orange;
+body{background-color: green;
 
   color: black;
-  font-family: fantasy;
+  font-family: inherit;
   text-align:center;
 
 }
