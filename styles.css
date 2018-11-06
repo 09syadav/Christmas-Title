@@ -1,0 +1,14 @@
+h1 { font-family:
+
+  color: black;
+  font-weight: bold;
+  font-stretch: ultra-expanded;
+  font-size-adjust: auto;
+}
+body{background-color: orange;
+
+  color: black;
+  font-family: fantasy;
+  text-align:center;
+
+}
